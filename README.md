@@ -1,6 +1,6 @@
 BUGPOP – Web Security Platform for Gen-Z
 
-![BUGPOP Dashboard Screenshot](https://i.imgur.com/Yflnl6J.png)
+![BUGPOP Dashboard Screenshot]
 
 🚩 Fitur Unggulan
 
@@ -15,12 +15,4 @@ BUGPOP – Web Security Platform for Gen-Z
 
 
 
-🔥 Cara Pakai (Demo/Deploy)
-
-1. Download ZIP atau clone repo
-2. Extract, lalu buka `index.html` di browser  
-3. Semua fitur interaktif, data lokal (localStorage)  
-4. Untuk live online:
-   - Upload ke GitHub repo → Settings → Pages → Deploy
-   - Atau ke Vercel/Netlify (auto detect, tinggal drag & drop)
 
