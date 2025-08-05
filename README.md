@@ -11,7 +11,7 @@ BUGPOP – Web Security Platform for Gen-Z
 - Activity log (audit trail tiap aksi)
 - Upload logo custom (masuk ke report)
 - UI dark mode only, responsive Gen-Z style  
-- No backend! 100% client-side, siap deploy ke GitHub Pages/Netlify/Vercel
+- No backend! 100% client-side, 
 
 
 
